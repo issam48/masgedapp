@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Aug 23, 2023, 11:49:55 AM
+    Author     : HUAWEI
+*/
+.login-bg{
+    -fx-background-color: linear-gradient(to bottom right,#7fef83,#58e2ea );
+}
+.tex-field{
+    -fx-background-color: transparent;
+    -fx-border-color: #0f6111;
+    -fx-border-width: 0px 0px 3px 0px;
+    -fx-padding: 3px 3px 3px 25px;
+    -fx-text-inner-color: #fff;
+}
+.button{
+    -fx-background-color: #1eef80;
+    -fx-cursor: hand
+}
+.button:hover{
+    -fx-background-color: #7feab1
+}

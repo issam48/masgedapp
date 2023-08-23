@@ -1,0 +1,15 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Aug 23, 2023, 11:49:55 AM
+    Author     : HUAWEI
+*/
+.login-bg{
+    -fx-background-color: linear-gradient(to bottom right,#7fef83,#249928 );
+}
+.tex-field{
+    -fx-background-color: transparent;
+    -fx-border-color: #0e6111;
+}
