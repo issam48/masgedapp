@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="540.0" prefWidth="652.0" styleClass="login-bg" stylesheets="@Design.css" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/20.0.1">
+   <children>
+      <AnchorPane layoutX="440.0" prefHeight="540.0" prefWidth="210.0">
+         <children>
+            <ImageView fitHeight="96.0" fitWidth="200.0" layoutX="54.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/masjed3.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="160.0" fitWidth="200.0" layoutX="36.0" layoutY="62.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/pngtree-luxury-white-islamic-banner-title-frame-text-box-infographic-transparent-background-png-image_6526885.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="160.0" fitWidth="200.0" layoutX="36.0" layoutY="142.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/pngtree-luxury-white-islamic-banner-title-frame-text-box-infographic-transparent-background-png-image_6526885.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="160.0" fitWidth="200.0" layoutX="36.0" layoutY="222.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/pngtree-luxury-white-islamic-banner-title-frame-text-box-infographic-transparent-background-png-image_6526885.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="102.0" layoutY="134.0" text="الطلبة" />
+            <ImageView fitHeight="160.0" fitWidth="200.0" layoutX="36.0" layoutY="302.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/pngtree-luxury-white-islamic-banner-title-frame-text-box-infographic-transparent-background-png-image_6526885.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="102.0" layoutY="214.0" text="الأساتدة" />
+            <Label layoutX="85.0" layoutY="293.0" text="المواد الدراسية" />
+            <Label layoutX="102.0" layoutY="373.0" text="المالية" />
+            <ImageView fitHeight="160.0" fitWidth="200.0" layoutX="38.0" layoutY="391.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../img/pngtree-luxury-white-islamic-banner-title-frame-text-box-infographic-transparent-background-png-image_6526885.png" />
+               </image>
+            </ImageView>
+            <Label layoutX="102.0" layoutY="463.0" text="الاحصائيات" />
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

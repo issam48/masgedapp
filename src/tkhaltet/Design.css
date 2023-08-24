@@ -15,9 +15,13 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to ed
     -fx-border-width: 0px 0px 3px 0px;
     -fx-padding: 3px 3px 3px 25px;
     -fx-text-inner-color: #fff;
+   /* -fx-prompt-text-fill: #fff; */
+  
+     
 }
 .button{
-    -fx-background-color: #1eef80;
+    -fx-background-color: #286341;
+    -fx-background-radius: 50;
     -fx-cursor: hand
 }
 .button:hover{
